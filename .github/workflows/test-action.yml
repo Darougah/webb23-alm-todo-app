@@ -8,7 +8,7 @@ on:
     - main
     # Defines the events that trigger the workflow. 
     # This workflow will run on pushes to the main branch 
-    # and pull requests targeting the main branch.
+    # and pull requests targeting the main branch
 jobs:
   build:
     runs-on: ubuntu-latest
